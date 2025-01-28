@@ -1,5 +1,5 @@
 SKU: 333006
-Full product name: Load-cell ampfilier HX711 board with easyC
+Full product name: Load-cell ampfilier HX711 board qwiic
 Country of origin: Croatia
-HS tariff code: 85185000
-EAN/UPC barcode: 
+HS tariff code: 85340090
+EAN/UPC barcode: 732388675807
